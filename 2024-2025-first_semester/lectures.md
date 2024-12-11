@@ -23,3 +23,10 @@ Asaf talked about the Heisenberg group and the oscillator representation, he als
 The recording is available here:
 https://us06web.zoom.us/rec/share/q3-7gjOnzJ2MuTntxE4iALzVHwBH2b3ukQt0NKV51tv_KZMj8HlPKV8itSJbscs9.XRx8sBTvnCD2DQFh?startTime=1732793734000
 Passcode: jHnM=1$X
+
+## Lecture 5
+Asaf talked about the Weil representation. Guy talked about symplectic reduction and symplectic induction.
+
+The recording is available here:
+https://us06web.zoom.us/rec/share/hkaBClA0UnG4zoUZEOCDy7U5iQ2p9oa24BfEu_cRXgSt3AbSugqRNHEaTkT364Ft.mG649VWe-XwP592h?startTime=1733398364000
+Passcode: 7bh8?q74
