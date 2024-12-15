@@ -30,3 +30,10 @@ Asaf talked about the Weil representation. Guy talked about symplectic reduction
 The recording is available here:
 https://us06web.zoom.us/rec/share/hkaBClA0UnG4zoUZEOCDy7U5iQ2p9oa24BfEu_cRXgSt3AbSugqRNHEaTkT364Ft.mG649VWe-XwP592h?startTime=1733398364000
 Passcode: 7bh8?q74
+
+## Lecture 6
+Guy Kapon talked about Bruhat decomposition. Guy Shtotland talked about the definition and examples of hyperspherical varieties.
+
+The recording is available here:
+https://us06web.zoom.us/rec/share/r28t2aK5vbR2tnrlTg4na0MyvTGUYLBizB6K9nz80i_M4_Z6x1Z8XCqz6BvLhCnE.u11ePJ4Go1BeQgvw?startTime=1734003406000
+Passcode: ^&0.QUYw
