@@ -37,3 +37,10 @@ Guy Kapon talked about Bruhat decomposition. Guy Shtotland talked about the defi
 The recording is available here:
 https://us06web.zoom.us/rec/share/r28t2aK5vbR2tnrlTg4na0MyvTGUYLBizB6K9nz80i_M4_Z6x1Z8XCqz6BvLhCnE.u11ePJ4Go1BeQgvw?startTime=1734003406000
 Passcode: ^&0.QUYw
+
+## Lecture 7
+Nadya and Avner talked about Arthur parameters and the multiplicity formula.
+
+The recording is available here:
+https://us06web.zoom.us/rec/share/_y62r4D0l01VXB5Ug786blBk6zVXiw5isun21HLv6nRufXzDpqNpd8uYHOOXlyKi._iKZYeKWNwEo6pkq?startTime=1734608120000
+Passcode: 8MKhZCg+
