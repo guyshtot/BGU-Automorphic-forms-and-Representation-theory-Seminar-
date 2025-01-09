@@ -44,3 +44,10 @@ Nadya and Avner talked about Arthur parameters and the multiplicity formula.
 The recording is available here:
 https://us06web.zoom.us/rec/share/_y62r4D0l01VXB5Ug786blBk6zVXiw5isun21HLv6nRufXzDpqNpd8uYHOOXlyKi._iKZYeKWNwEo6pkq?startTime=1734608120000
 Passcode: 8MKhZCg+
+
+## Lecture 8
+Mat talked about the Whittaker model of GL(2). Eitan talked about Whittaker induction and the structure theorem for hyperspherical spaces.
+
+The recording is available here:
+https://us06web.zoom.us/rec/share/4kB_pMVScu8LrVAVQdRq1BmSLWQMEjOugpIi7dkPuJC3hL66UoqySFG_Udo3p9Ps.OzCa5v4iUn_DN6fL?startTime=1735817555000
+Passcode: *&d#8B9x
