@@ -51,3 +51,17 @@ Mat talked about the Whittaker model of GL(2). Eitan talked about Whittaker indu
 The recording is available here:
 https://us06web.zoom.us/rec/share/4kB_pMVScu8LrVAVQdRq1BmSLWQMEjOugpIi7dkPuJC3hL66UoqySFG_Udo3p9Ps.OzCa5v4iUn_DN6fL?startTime=1735817555000
 Passcode: *&d#8B9x
+
+## Lecture 9
+Avner talked about theta correspondance and Adams conjecture. Itay talked about conditions for Whittaker induction to be hyperspherical.
+
+The recording is available here:
+https://us06web.zoom.us/rec/share/4kB_pMVScu8LrVAVQdRq1BmSLWQMEjOugpIi7dkPuJC3hL66UoqySFG_Udo3p9Ps.OzCa5v4iUn_DN6fL?startTime=1735817555000
+Passcode: *&d#8B9x
+
+## Lecture 10
+Itay talked about subgroups related to nilpotent orbits of O(n) and Sp(2m).
+
+The recording is available here:
+https://us06web.zoom.us/rec/share/GG8Ljp7D6matXIgyQIbikRDOSyFpXqJOm3qe29bRLcdZrSjM_qz4Oq_NxIdYpK3E.QE-VGliYU-LcEe_b?startTime=1737027662000
+Passcode: 7WgUv+Y5
